@@ -1,0 +1,38 @@
+body {
+  display: flex;
+  background-color: rgb(254, 249, 215);
+  justify-content: center;
+}
+
+.cartaovisita {
+  margin: 20px;
+  justify-content: center;
+}
+
+.titulocartao {
+  display: flex;
+  background-color: rgb(96, 108, 56);
+  width: 600px;
+  justify-content: center;
+  margin: 20px;
+  border-radius: 8px;
+  box-shadow: 0px 0px 15px 0px #626d3e;
+}
+
+.cartao {
+  display: flex;
+  background-color: rgb(96, 108, 56);
+  width: 600px;
+  justify-content: center;
+  margin: 20px;
+  border-radius: 8px;
+  box-shadow: 0px 0px 15px 0px #626d3e;
+}
+
+.foto1 {
+  display: flex;
+  box-shadow: 0px 0px 15px 0px #626d3e;
+  margin: 20px;
+  border-radius: 8px;
+  max-width: 90%;
+}
